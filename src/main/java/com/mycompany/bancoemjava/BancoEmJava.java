@@ -6,7 +6,7 @@ package com.mycompany.bancoemjava;
 
 /**
  *
- * @author User
+ * @author ALlazarini
  */
 
   import java.util.Scanner;
