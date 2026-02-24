@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author sdc.daniel
+ * @author ALlazarini
  */
 public class CreateTextFile {
     private Formatter output;
