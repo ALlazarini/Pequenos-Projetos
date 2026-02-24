@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author sdc.daniel
+ * @author ALlazarini
+
  */
 public class AppArquivoTexto {
 
