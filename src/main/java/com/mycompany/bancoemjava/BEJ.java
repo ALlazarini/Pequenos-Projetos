@@ -6,7 +6,7 @@ package com.mycompany.bancoemjava;
 
 /**
  *
- * @author User
+ * @author ALlazarini
  */
 public class BEJ {
 
