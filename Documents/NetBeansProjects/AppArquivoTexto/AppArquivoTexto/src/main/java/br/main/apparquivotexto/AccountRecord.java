@@ -6,7 +6,7 @@ package br.main.apparquivotexto;
 
 /**
  *
- * @author sdc.daniel
+ * @author ALlazarini
  */
 public class AccountRecord {
     private Integer account;
